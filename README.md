@@ -1,0 +1,1 @@
+Assignment consists of four files. Assignment_solution.ipynb file which is python code file. Assignment Subjective Questions Solution.pdf consists of solutions to business problems. Assignment Summary Report.pdf consists of Summary of Assignment. Lead Score Analysis Presentation.pdf consists of Analysis details.
